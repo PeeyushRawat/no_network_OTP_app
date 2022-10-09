@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Samarth Joseph\\Downloads\\Compressed\\qrdemo-20220628T194311Z-001\\qrdemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Samarth Joseph\\.gradle\\caches\\transforms-2\\files-2.1\\173b3d898aa7c98df1fe71af70b808e4\\jetified-core-1.9.13\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,55",
+                        "endOffsets": "109,165"
+                    }
+                }
+            ]
+        }
+    ]
+}

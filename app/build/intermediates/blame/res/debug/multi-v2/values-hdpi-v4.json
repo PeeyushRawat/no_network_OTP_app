@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Samarth Joseph\\Downloads\\Compressed\\qrdemo-20220628T194311Z-001\\qrdemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Samarth Joseph\\.gradle\\caches\\transforms-2\\files-2.1\\bf96d2b5a86ecd602a621e7e96856420\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "169",
+                        "endLines": "8",
+                        "endColumns": "13",
+                        "endOffsets": "441"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Samarth Joseph\\.gradle\\caches\\transforms-2\\files-2.1\\173b3d898aa7c98df1fe71af70b808e4\\jetified-core-1.9.13\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

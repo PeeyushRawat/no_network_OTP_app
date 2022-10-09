@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/scanbtn2"
+        android:layout_width="162dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="588dp"
+        android:backgroundTint="#3D5A80"
+        android:text="Decrypt"
+        android:textColor="#ffffff"
+        android:textColorHighlight="#F44336"
+        android:textColorLink="#A68F8F"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/scanbtn"
+        android:layout_width="178dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="588dp"
+        android:backgroundTint="#3D5A80"
+        android:text="Scan QRCode"
+        android:textColor="#ffffff"
+        android:textColorHighlight="#F44336"
+        android:textColorLink="#A68F8F"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/scantext"
+        android:layout_width="344dp"
+        android:layout_height="311dp"
+        android:background="#DFDEDE"
+        android:elegantTextHeight="false"
+        android:gravity="center"
+        android:hint="Your QR Result will show here"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textColorHighlight="#673AB7"
+        android:textColorLink="#673AB7"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.447"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.321" />
+
+    <EditText
+        android:id="@+id/scantext2"
+        android:layout_width="345dp"
+        android:layout_height="71dp"
+        android:background="#DFDEDE"
+        android:elegantTextHeight="false"
+        android:gravity="center"
+        android:hint="Enter the Half Key got on email"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textColorHighlight="#673AB7"
+        android:textColorLink="#673AB7"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.439"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.807" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="263dp"
+        android:layout_height="61dp"
+        android:text="HACK_ELITE"
+        android:textAlignment="textStart"
+        android:textColor="#3d5a80"
+        android:textSize="40sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.195"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="99dp"
+        android:layout_height="72dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.983"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.009"
+        app:srcCompat="@drawable/proj1" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="341dp"
+        android:layout_height="25dp"
+        android:text="TextView"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.141" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="341dp"
+        android:layout_height="25dp"
+        android:text="OR"
+        android:textAlignment="center"
+        android:textColor="#ee6c4d"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.471"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.682" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

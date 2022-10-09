@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Samarth Joseph\Downloads\Compressed\qrdemo-20220628T194311Z-001\qrdemo\app\src\main\shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Samarth Joseph\Downloads\Compressed\qrdemo-20220628T194311Z-001\qrdemo\app\src\debug\shaders"/></dataSet></merger>
